@@ -2,8 +2,8 @@
   "compilerOptions": {
     "target": "es5",
     "lib": ["es5", "dom"],
-    "types": ["cypress", "node"],
-    "baseUrl": "."
+    "types": ["cypress", "node", "allure-cypress"],
+    "baseUrl": "../"
   },
   "include": ["**/*.ts"]
 }
