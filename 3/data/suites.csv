@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 03 00:24:47 GMT 2024","Tue Sep 03 00:24:50 GMT 2024","2889","User Test Suite","","","","","should be able to register",""
+"passed","Tue Sep 03 00:24:35 GMT 2024","Tue Sep 03 00:24:38 GMT 2024","2742","Todo Test Suite","","","","","should be able to create a todo",""
+"passed","Tue Sep 03 00:24:38 GMT 2024","Tue Sep 03 00:24:39 GMT 2024","1113","Todo Test Suite","","","","","should be able to remove a todo",""

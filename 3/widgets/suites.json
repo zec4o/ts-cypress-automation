@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"3e4e23f2b358ed469a8d1ba9efc32e2e","name":"Todo Test Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"c5cbc25cace2f8d3f6c6a3338329d529","name":"User Test Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
